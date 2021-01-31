@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Roy Delgado 👾</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/static/favicon.ico" />
         <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Roboto&display=swap" />
       </Head>
