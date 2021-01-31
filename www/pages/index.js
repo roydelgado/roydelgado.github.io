@@ -7,11 +7,13 @@ export default function Home() {
       <Head>
         <title>Roy Delgado 👾</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Roboto&display=swap" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          RoyDelgado.com
+          Roy Delgado
         </h1>
       </main>
 
